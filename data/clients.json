@@ -345,11 +345,6 @@
 			"category": "PHP"
 		},
 		{
-			"name": "AcmePHP",
-			"url": "https://github.com/acmephp/acmephp",
-			"category": "PHP"
-		},
-		{
 			"name": "FreeSSL.tech Auto",
 			"url": "https://freessl.tech",
 			"category": "PHP"
